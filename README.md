@@ -14,112 +14,140 @@
 
 ## 📌 Sobre este repositório
 
-[#-sobre-este-repositório](#-sobre-este-repositório)
+Este repositório reúne meus projetos e estudos em **Power BI**, desenvolvidos com o objetivo de praticar conceitos de análise e visualização de dados.
 
-Este repositório reúne meus projetos de estudo em **Power BI**, desenvolvidos para praticar modelagem de dados, criação de relacionamentos, construção de visuais e análise exploratória de dados fictícios.
-
-Cada pasta representa um dashboard diferente, com seu próprio contexto e objetivo de aprendizado.
+Os projetos envolvem criação de dashboards, organização e relacionamento de dados, utilização de diferentes tipos de visuais e exploração de informações por meio de filtros e segmentações.
 
 ---
 
-## 🗂️ Projetos
+## 🗂️ Projeto
 
-[#️-projetos](#️-projetos)
+### 📈 Dashboard de Vendas — SAS
 
-### 📈 Dashboard de Vendas (SAS)
+Dashboard desenvolvido a partir de bases fictícias relacionadas a **vendas, clientes, produtos e funcionários**.
 
-[#-dashboard-de-vendas-sas](#-dashboard-de-vendas-sas)
+O projeto foi desenvolvido com o objetivo de praticar a construção de dashboards e a organização de dados no Power BI.
 
-Dashboard desenvolvido a partir de bases fictícias de vendas, clientes, produtos e funcionários, com o objetivo de praticar modelagem de dados e construção de visuais no Power BI.
+### 📄 Arquivo
 
-**Arquivo:** [`dashboard-vendas-sas.pbix`](./dashboard-vendas-sas.pbix)
-
-**Páginas do relatório:**
-- 🏠 Principal
-- 👔 Cargo
-- 👤 Funcionário
-- 📦 Produtos
-- 🧑‍🤝‍🧑 Clientes
-- 💰 Vendas
-
-**Visuais utilizados:** cards, gráfico de pizza, tabelas, gauge, mapa e segmentações (slicers).
+[**dashboard-vendas-sas.pbix**](dashboard-vendas-sas.pbix)
 
 ---
 
-## 🎯 Objetivos
+## 📊 Páginas do relatório
 
-[#-objetivos]
+O dashboard possui diferentes páginas para apresentar e explorar as informações do conjunto de dados.
 
-Este projeto teve como principais objetivos:
+### 🏠 Página Principal
 
-- Praticar importação e transformação de dados via Power Query;
-- Criar relacionamentos entre tabelas no modelo de dados;
-- Construir um relatório com múltiplas páginas e navegação;
-- Explorar diferentes tipos de visuais (cards, tabelas, gráficos, mapas);
-- Organizar um projeto de Power BI para publicação no GitHub.
+Página inicial do dashboard, reunindo informações gerais e indicadores para uma visão inicial dos dados.
+
+---
+
+### 👔 Página Cargo
+
+Apresenta informações relacionadas aos cargos dos funcionários.
+
+![Página Cargo](screenshots/pagina-cargo.png)
+
+---
+
+### 👤 Página Funcionário
+
+Página dedicada à visualização das informações dos funcionários.
+
+![Página Funcionário](screenshots/pagina-funcionario.png)
+
+---
+
+### 📦 Página Produtos
+
+Apresenta informações relacionadas aos produtos cadastrados e suas respectivas vendas.
+
+![Página Produtos](screenshots/pagina-produtos.png)
+
+---
+
+### 🧑‍🤝‍🧑 Página Clientes
+
+Página com informações relacionadas aos clientes.
+
+![Página Clientes](screenshots/pagina-clientes.png)
+
+---
+
+### 💰 Página Vendas
+
+Apresenta informações relacionadas às vendas e permite explorar os dados utilizando diferentes filtros.
+
+![Página Vendas](screenshots/pagina-vendas.png)
+
+---
+
+## 🛠️ Recursos utilizados
+
+- **Power BI Desktop**
+- **Power Query**
+- Importação de dados via Excel
+- Modelagem de dados
+- Relacionamentos entre tabelas
+- Segmentações de dados (Slicers)
+- Cards
+- Gráficos
+- Tabelas
+- Gauge
+- Mapas
+- Filtros
+
+---
+
+## 🎯 Objetivos do projeto
+
+- Praticar a importação e transformação de dados;
+- Aprender a organizar dados para criação de relatórios;
+- Criar relacionamentos entre tabelas;
+- Desenvolver dashboards com múltiplas páginas;
+- Explorar diferentes tipos de visualizações;
+- Utilizar filtros e segmentações de dados;
+- Desenvolver maior familiaridade com o Power BI.
 
 ---
 
 ## 🧠 O que aprendi
 
-[#-o-que-aprendi]
-
 Durante o desenvolvimento deste projeto, pratiquei:
 
 - Importação de dados a partir de planilhas Excel;
-- Modelagem de dados e criação de relacionamentos entre tabelas;
-- Construção de páginas de relatório com navegação entre elas;
-- Uso de segmentações (slicers) para filtrar informações;
-- Escolha de visuais adequados para cada tipo de análise.
+- Organização e tratamento de dados;
+- Criação de relacionamentos entre tabelas;
+- Construção de páginas de relatório;
+- Utilização de diferentes tipos de gráficos e indicadores;
+- Aplicação de filtros e segmentações;
+- Organização visual de dashboards;
+- Exploração de dados para obtenção de informações.
 
 ---
 
 ## 🚧 Próximas melhorias
 
+Este projeto faz parte do meu processo de aprendizado em Power BI. Algumas melhorias que pretendo realizar futuramente são:
 
-Como parte da evolução deste projeto, pretendo:
-
-- [ ] Relacionar todas as tabelas do modelo (hoje algumas ainda estão soltas);
-- [ ] Criar medidas DAX customizadas (hoje o relatório usa apenas agregações automáticas);
-- [ ] Unificar as tabelas de data em uma única tabela calendário;
-- [ ] Revisar a nomenclatura das tabelas e colunas para maior clareza;
-- [ ] Adicionar screenshots das páginas do relatório neste README.
+- [ ] Criar medidas utilizando DAX;
+- [ ] Melhorar a modelagem do banco de dados;
+- [ ] Criar uma tabela calendário;
+- [ ] Revisar os relacionamentos entre as tabelas;
+- [ ] Melhorar a organização e padronização dos nomes;
+- [ ] Adicionar novos dashboards ao repositório.
 
 ---
 
 ## ▶️ Como abrir o projeto
 
-[#️-como-abrir-o-projeto](#️-como-abrir-o-projeto)
+Para visualizar o dashboard:
 
-1. Instale o [Power BI Desktop](https://www.microsoft.com/pt-br/power-platform/products/power-bi/desktop) (gratuito).
-2. Clone este repositório:
-   ```
-   git clone https://github.com/yasminalba/power-bi-projects.git
-   ```
-3. Abra o arquivo `.pbix` desejado diretamente no Power BI Desktop.
+1. Instale o **Power BI Desktop**.
+2. Faça o download ou clone este repositório.
+3. Abra o arquivo:
 
----
-
-## 📈 Evolução
-
-
-Este repositório representa uma etapa inicial dos meus estudos em **Power BI e análise de dados**.
-
-A ideia é continuar adicionando novos dashboards conforme evoluo em modelagem de dados, DAX e boas práticas de visualização.
-
-> 🚀 **Cada projeto é uma oportunidade de transformar aprendizado em prática.**
-
----
-
-## 👩‍💻 Autora
-
-[#‍-autora]
-
-
-Estudante de **Engenharia de Software**, atualmente desenvolvendo conhecimentos em programação, desenvolvimento web, UX/UI e Power BI.
-
-[![GitHub](https://img.shields.io/badge/GitHub-yasminalba-181717?style=for-the-badge&logo=github)](https://github.com/yasminalba)
-
----
-
-⭐ **Se este projeto foi útil ou interessante, considere deixar uma estrela no repositório!**
+```text
+dashboard-vendas-sas.pbix
