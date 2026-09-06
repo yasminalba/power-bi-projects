@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 <img src="https://img.shields.io/badge/Status-Em%20Aprendizado-0D1117?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Projetos-Acadêmicos-7C4DFF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Projetos-Acad%C3%AAmicos-7C4DFF?style=for-the-badge"/>
 
 ### Projetos desenvolvidos durante meus estudos de Power BI
 
@@ -16,9 +16,9 @@
 
 ### 📈 Dashboard de Vendas — SAS
 
-Dashboard desenvolvido em Power BI a partir de bases fictícias de vendas, clientes, produtos e funcionários.
+Dashboard desenvolvido em Power BI a partir de bases fictícias de **vendas, clientes, produtos e funcionários**.
 
-O projeto foi desenvolvido para praticar modelagem de dados, criação de relacionamentos, utilização de filtros e construção de diferentes visualizações.
+O projeto foi desenvolvido para praticar **modelagem de dados, criação de relacionamentos, utilização de filtros e construção de diferentes visualizações**.
 
 **Conceitos praticados:**
 
@@ -32,15 +32,17 @@ O projeto foi desenvolvido para praticar modelagem de dados, criação de relaci
 
 ---
 
-### 📊 Novo Projeto
+### 🛍️ Dashboard — Análise de Vendas por Produto e Vendedor
 
-Projeto desenvolvido durante meus estudos de Power BI, com foco na prática de análise e visualização de dados.
+Dashboard desenvolvido em Power BI com foco na **análise de vendas por produto e vendedor**.
+
+O projeto foi desenvolvido para praticar **tratamento e transformação de dados no Power Query**, criação de **medidas DAX** e construção de visualizações para análise de desempenho.
 
 **Conceitos praticados:**
 
-`Power BI` `Power Query` `Dashboards` `Visualização de Dados`
+`Power BI` `Power Query` `DAX` `Limpeza de Dados` `Transformação de Dados` `KPIs` `Análise de Vendas` `Visualização de Dados`
 
-<a href="LINK_DO_REPOSITORIO">
+<a href="https://github.com/yasminalba/dashboard-analise-vendas-produto-vendedor">
 
 <img src="https://img.shields.io/badge/VIEW_PROJECT-A78BFA?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 
@@ -50,12 +52,13 @@ Projeto desenvolvido durante meus estudos de Power BI, com foco na prática de a
 
 ## 🚧 Em desenvolvimento
 
-Novos projetos serão adicionados conforme avanço nos meus estudos de Power BI.
+Novos projetos serão adicionados conforme avanço nos meus estudos de **Power BI e análise de dados**.
 
 ```text
 POWER BI PROJECTS
 
 [✓] Dashboard de Vendas — SAS
+[✓] Análise de Vendas — Produto e Vendedor
 [ ] Novo projeto
 [ ] Novo projeto
 
