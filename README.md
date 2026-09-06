@@ -48,7 +48,7 @@ Página inicial do dashboard, reunindo informações gerais e indicadores para u
 
 Apresenta informações relacionadas aos cargos dos funcionários.
 
-![Página Cargo](screenshots/pagina-cargo.png)
+![Página Cargo](pagina-cargo.png)
 
 ---
 
@@ -56,7 +56,7 @@ Apresenta informações relacionadas aos cargos dos funcionários.
 
 Página dedicada à visualização das informações dos funcionários.
 
-![Página Funcionário](screenshots/pagina-funcionario.png)
+![Página Funcionário](pagina-funcionario.png)
 
 ---
 
@@ -64,7 +64,7 @@ Página dedicada à visualização das informações dos funcionários.
 
 Apresenta informações relacionadas aos produtos cadastrados e suas respectivas vendas.
 
-![Página Produtos](screenshots/pagina-produtos.png)
+![Página Produtos](pagina-produtos.png)
 
 ---
 
@@ -72,7 +72,7 @@ Apresenta informações relacionadas aos produtos cadastrados e suas respectivas
 
 Página com informações relacionadas aos clientes.
 
-![Página Clientes](screenshots/pagina-clientes.png)
+![Página Clientes](pagina-clientes.png)
 
 ---
 
@@ -80,7 +80,7 @@ Página com informações relacionadas aos clientes.
 
 Apresenta informações relacionadas às vendas e permite explorar os dados utilizando diferentes filtros.
 
-![Página Vendas](screenshots/pagina-vendas.png)
+![Página Vendas](pagina-vendas.png)
 
 ---
 
@@ -136,7 +136,7 @@ Este projeto faz parte do meu processo de aprendizado em Power BI. Algumas melho
 - [ ] Melhorar a modelagem do banco de dados;
 - [ ] Criar uma tabela calendário;
 - [ ] Revisar os relacionamentos entre as tabelas;
-- [ ] Melhorar a organização e padronização dos nomes;
+- [ ] Revisar a nomenclatura das tabelas e colunas;
 - [ ] Adicionar novos dashboards ao repositório.
 
 ---
